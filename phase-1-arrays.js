@@ -24,6 +24,7 @@ Array.prototype.twoSum = function(){
     }
     return res
 }
+//add
 
 // console.log([-1, 0, 2, -2, 1].twoSum())
 
